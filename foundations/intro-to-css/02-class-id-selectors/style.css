@@ -1,0 +1,18 @@
+/*used a type selector instead of a class for p*/
+p{
+    background-color: #ffb3b3;
+    font-family: Verdana, DejaVu Sans, sans-serif;
+}
+
+#id1{
+    font-size: 36px;
+    color: #4d4dff;
+}
+#id2{
+    font-size: 24px;
+    font-weight: bold;
+    background-color: #00cc99;
+}
+.biggie{
+    font-size: 24px;
+}
